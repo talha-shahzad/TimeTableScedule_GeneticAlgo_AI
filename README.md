@@ -1,5 +1,5 @@
 # TimeTableScedule_GeneticAlgo_AI
-Project Description:
+### Project Description:
 Timetable scheduling problem is a classical problem in the university environment where a
 timetable is to be made individually for each semester ensuring minimum number of clashes
 between sections, professors, and rooms. Thus, we have a timetabling problem where time slots
